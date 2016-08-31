@@ -1,0 +1,6 @@
+Tasks for today:
+
+1. Create a branch
+2. On the new branch, create a new file and write some stuff in it
+3. Push changes to your branch
+4. Create pull request for your changes
